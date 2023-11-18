@@ -91,7 +91,7 @@ filtering[req.dst] {
 ```
 
 
-##　例
+## 例
 ```rego
 deny_msg[msg] {
     input.request.user != "blue"
