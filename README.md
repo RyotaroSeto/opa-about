@@ -18,3 +18,4 @@
   
 ## 実践
 [The Rego Playground](https://play.openpolicyagent.org/p/mm5faX5bz8)
+https://zenn.dev/mizutani/books/d2f1440cfbba94/viewer/rego-iteration
